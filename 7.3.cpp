@@ -27,6 +27,5 @@ signed main()
 {
   cout<<"hello,world!"<<endl;
   solve();
-  cout<<"凄凄切切前期去去去"<<endl;
   return 0;
 }
