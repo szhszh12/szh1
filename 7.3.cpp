@@ -26,8 +26,6 @@ void solve()
 signed main()
 {
   cout<<"hello,world!"<<endl;
-
   solve();
-
   return 0;
 }
